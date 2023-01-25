@@ -1,0 +1,39 @@
+ td{
+    border: 2px solid gray;
+    border-collapse: collapse;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 40px;
+}
+th
+{text-align: left;
+    border: 2px solid gray;
+    border-collapse: collapse;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 40px;
+}
+
+table{
+    border: 2px solid gray;
+    border-collapse: collapse;
+    
+}
+
+button{
+width: 115%;
+    background-color:gray; 
+           height: 35px;
+    margin:auto;
+        border: none;
+        color: white;
+        border-radius: 2px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+}
